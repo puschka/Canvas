@@ -98,6 +98,11 @@ public class ControlPanel {
                 int maxX = parseRequiredTextField(tfMaxX);
                 int minY = parseRequiredTextField(tfMinY);
                 int maxY = parseRequiredTextField(tfMaxY);
+                // Проверка на отрицательные значения
+                if (lines < 0 || circles < 0 || rectangles < 0 || triangles < 0 || parabolas < 0 || trapezoids < 0 ||
+                        minX < 0 || maxX < 0 || minY < 0 || maxY < 0) {
+                    throw new IllegalArgumentException("Введены отрицательные значения. Все числа должны быть неотрицательными.");
+                }
 
                 boolean fill = fillShapes.isSelected();
                 boolean grid = showGrid.isSelected();
@@ -122,6 +127,9 @@ public class ControlPanel {
             } catch (NumberFormatException ex) {
                 logger.error("Ошибка ввода: ", ex);
                 showError("Ошибка", "Пожалуйста, заполните все поля корректными числовыми значениями.");
+            } catch (IllegalArgumentException ex) {
+                logger.error("Ошибка ввода: ", ex);
+                showError("Ошибка", ex.getMessage());
             }
 
 
