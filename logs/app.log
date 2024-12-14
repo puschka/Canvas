@@ -1,0 +1,415 @@
+2024-12-14 03:53:50 INFO  MainApp:29 - Запуск приложения
+2024-12-14 03:53:50 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 03:53:51 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 03:54:34 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:01 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:12 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:31 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:34 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:35 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:37 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:38 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:39 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:42 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:43 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:44 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:46 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:57:47 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:59:40 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:59:50 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:59:52 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:59:54 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:59:57 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 03:59:58 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:02:35 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:02:51 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:02:57 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:00 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:01 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:11 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:17 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:27 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:37 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:49 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:03:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:18 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:21 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:24 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:28 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:31 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:32 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:34 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:35 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:04:38 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:05:50 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 04:18:48 INFO  MainApp:29 - Запуск приложения
+2024-12-14 04:18:48 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 04:18:49 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 09:51:29 INFO  MainApp:29 - Запуск приложения
+2024-12-14 09:51:29 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 09:51:30 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 09:51:39 ERROR ControlPanel:123 - Ошибка ввода: 
+java.lang.NumberFormatException: Пустое значение: Количество линий:
+	at com.example.canvas/com.example.canvas.ControlPanel.parseRequiredTextField(ControlPanel.java:206) ~[classes/:?]
+	at com.example.canvas/com.example.canvas.ControlPanel.lambda$configurePanel$1(ControlPanel.java:90) ~[classes/:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+2024-12-14 09:51:51 ERROR ControlPanel:123 - Ошибка ввода: 
+java.lang.NumberFormatException: Пустое значение: Количество линий:
+	at com.example.canvas/com.example.canvas.ControlPanel.parseRequiredTextField(ControlPanel.java:206) ~[classes/:?]
+	at com.example.canvas/com.example.canvas.ControlPanel.lambda$configurePanel$1(ControlPanel.java:90) ~[classes/:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+2024-12-14 09:52:24 ERROR ControlPanel:123 - Ошибка ввода: 
+java.lang.NumberFormatException: Пустое значение: Максимальная X:
+	at com.example.canvas/com.example.canvas.ControlPanel.parseRequiredTextField(ControlPanel.java:206) ~[classes/:?]
+	at com.example.canvas/com.example.canvas.ControlPanel.lambda$configurePanel$1(ControlPanel.java:98) ~[classes/:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+2024-12-14 10:53:54 INFO  MainApp:29 - Запуск приложения
+2024-12-14 10:53:54 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 10:53:55 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 10:54:28 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:54:44 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:14 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:15 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:17 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:18 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:22 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:27 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:46 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 10:55:52 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:09:04 INFO  MainApp:29 - Запуск приложения
+2024-12-14 11:09:04 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 11:09:05 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 11:09:13 ERROR ControlPanel:123 - Ошибка ввода: 
+java.lang.NumberFormatException: Пустое значение: Количество линий:
+	at com.example.canvas/com.example.canvas.ControlPanel.parseRequiredTextField(ControlPanel.java:206) ~[classes/:?]
+	at com.example.canvas/com.example.canvas.ControlPanel.lambda$configurePanel$1(ControlPanel.java:90) ~[classes/:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+2024-12-14 11:09:49 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:09:56 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:09:58 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:09:59 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:09:59 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:02 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:15 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:16 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:23 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:24 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:26 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:27 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:38 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:43 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:52 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:54 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:54 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:56 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:10:56 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:11:01 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:11:05 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 11:11:08 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:18:38 INFO  MainApp:29 - Запуск приложения
+2024-12-14 12:18:38 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 12:18:40 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 12:19:10 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:19:13 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:19:15 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:19:16 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:27 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:28 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:29 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:31 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:33 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:34 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:35 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:36 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:37 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:38 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:38 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:39 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:41 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:42 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:20:46 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:25 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:26 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:30 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:31 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:34 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:42 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:42 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:44 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:46 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:50 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:50 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:51 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:52 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:54 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:55 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:56 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:56 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:57 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:21:58 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:07 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:10 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:10 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:11 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:12 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:15 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:16 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:17 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:18 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:21 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:21 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:22 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:23 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:23 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:24 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:26 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:27 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:28 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:28 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:29 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:31 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:32 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:33 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:37 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 12:22:37 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 13:29:49 INFO  MainApp:30 - Запуск приложения
+2024-12-14 13:29:49 INFO  MainApp:42 - Инициализация главного окна
+2024-12-14 13:29:49 INFO  MainApp:61 - Приложение успешно запущено
+2024-12-14 13:30:23 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 13:30:25 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 13:30:25 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 13:30:25 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 13:30:36 INFO  ControlPanel:121 - Фигуры успешно сгенерированы.
+2024-12-14 13:31:32 INFO  MainApp:29 - Запуск приложения
+2024-12-14 13:31:32 INFO  MainApp:41 - Инициализация главного окна
+2024-12-14 13:31:32 INFO  MainApp:59 - Приложение успешно запущено
+2024-12-14 13:31:38 ERROR ControlPanel:123 - Ошибка ввода: 
+java.lang.NumberFormatException: Пустое значение: Количество линий:
+	at com.example.canvas/com.example.canvas.ControlPanel.parseRequiredTextField(ControlPanel.java:206) ~[classes/:?]
+	at com.example.canvas/com.example.canvas.ControlPanel.lambda$configurePanel$1(ControlPanel.java:90) ~[classes/:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Node.fireEvent(Node.java:8792) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.controls/javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:208) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.controls/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.base/javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$MouseHandler.process(Scene.java:3897) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene.processMouseEvent(Scene.java:1878) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2623) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.handleMouseEvent(View.java:557) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.View.notifyMouse(View.java:943) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-17.0.6-win.jar:?]
+	at javafx.graphics/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-17.0.6-win.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
